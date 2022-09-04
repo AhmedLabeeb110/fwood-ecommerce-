@@ -4,37 +4,45 @@
       "name": "Fruit Soap",
       "price": "£19",
       "id": "1",
-      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sunt rem magnam neque voluptates error illum."
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sunt rem magnam neque voluptates error illum.",
+      "sellingStatus": "best seller",
+      "stock": "23 units left"
     },
     {
       "name": "Mango Lotion",
       "price": "£13",
       "id": "2",
-      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sunt rem magnam neque voluptates error illum."
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sunt rem magnam neque voluptates error illum.",
+      "sellingStatus": "top seller",
+      "stock": "11 units left"
     },
     {
       "name": "Cherry Shower Gel",
       "price": "£23",
       "id": "3",
-      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sunt rem magnam neque voluptates error illum."
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sunt rem magnam neque voluptates error illum.",
+      "stock": "out of stock"
     },
     {
       "name": "Face Wash",
       "price": "£2",
       "id": "4",
-      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sunt rem magnam neque voluptates error illum."
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sunt rem magnam neque voluptates error illum.",
+      "stock": "5 units left"
     },
     {
       "name": "Body Wash",
       "price": "£71",
       "id": "5",
-      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sunt rem magnam neque voluptates error illum."
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sunt rem magnam neque voluptates error illum.",
+      "stock": "out of stock"
     },
     {
       "name": "Car Liquid",
       "price": "£17",
       "id": "6",
-      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sunt rem magnam neque voluptates error illum."
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sunt rem magnam neque voluptates error illum.",
+      "stock": "out of stock"
     }
   ]
 }
