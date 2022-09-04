@@ -6,7 +6,8 @@
       "id": "1",
       "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sunt rem magnam neque voluptates error illum.",
       "sellingStatus": "best seller",
-      "stock": "23 units left"
+      "stock": "23 units left",
+      "image": "./Images/skincareOne.jpg"
     },
     {
       "name": "Mango Lotion",
