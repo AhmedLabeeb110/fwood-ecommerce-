@@ -15,35 +15,40 @@
       "id": "2",
       "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sunt rem magnam neque voluptates error illum.",
       "sellingStatus": "top seller",
-      "stock": "true"
+      "stock": "true",
+      "image": "https://iili.io/6lW0gV.jpg"
     },
     {
       "name": "Cherry Shower Gel",
       "price": "£23",
       "id": "3",
       "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sunt rem magnam neque voluptates error illum.",
-      "stock": "false"
+      "stock": "false",
+      "image": "https://iili.io/6lWl0Q.jpg"
     },
     {
       "name": "Face Wash",
       "price": "£2",
       "id": "4",
       "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sunt rem magnam neque voluptates error illum.",
-      "stock": "true"
+      "stock": "true",
+      "image": "https://iili.io/6lWcqx.jpg"
     },
     {
       "name": "Body Wash",
       "price": "£71",
       "id": "5",
       "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sunt rem magnam neque voluptates error illum.",
-      "stock": "false"
+      "stock": "false",
+      "image": "https://iili.io/6lCZZb.jpg"
     },
     {
       "name": "Car Liquid",
       "price": "£17",
       "id": "6",
       "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sunt rem magnam neque voluptates error illum.",
-      "stock": "true"
+      "stock": "true",
+      "image": "https://iili.io/6lWl0Q.jpg"
     }
   ]
 }
